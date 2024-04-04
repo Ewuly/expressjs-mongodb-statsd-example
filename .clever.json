@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_fa593406-b3c1-4607-9d2f-550c4053827e",
+      "org_id": "orga_e8132d8a-58cb-44f6-b2ac-115588b7bb09",
+      "deploy_url": "https://github.com/Ewuly/expressjs-mongodb-statsd-example.git",
+      "git_ssh_url": "https://github.com/Ewuly/expressjs-mongodb-statsd-example.git",
+      "name": "expressjs-mongodb-statsd-example",
+      "alias": "expressjs-mongodb-statsd-example"
+    }
+  ]
+}
