@@ -1,1 +1,1 @@
-echo "IT WORKS VERY GOOD"
+echo "IT WORKS VER GOOD"
