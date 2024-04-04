@@ -9,7 +9,7 @@ $(document).ready(function() {
         var value = $('#value').val();
 
         if(value === '') {
-            alert('Value field must not be empt');
+            alert('Value field must not be emp');
         }
         else
         {
