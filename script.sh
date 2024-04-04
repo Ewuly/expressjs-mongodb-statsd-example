@@ -1,1 +1,0 @@
-echo "IT WORKS VER GOOD"
